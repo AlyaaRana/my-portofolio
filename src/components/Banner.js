@@ -21,7 +21,7 @@ export const Banner = () => {
                         <span className="tagline">Welcome to my Portofolio</span>
                         <h1>{'Hi, Im Alyaa'} Frontend Developer </h1>
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                        <button onClick={() => console.log('connect')}>Let’s Connect <BsArrowRight size={25} /></button>
+                        <button onClick={() => console.log('connect')}>Let’s Check My Resume <BsArrowRight size={25} /></button>
                     </Col>
                     <Col xs={12} md={6} xl={5}>
                         <img src={headerImg} alt="Header Img"/>
